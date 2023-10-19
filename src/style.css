@@ -43,6 +43,18 @@ body {
   }
 }
 
+.button {
+  font-size: 25px;
+}
+
 .number {
   font-size: 350px;
+}
+
+.new-card {
+  margin: 20px;
+}
+
+.sizeChange {
+  margin: 20px;
 }
